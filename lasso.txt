@@ -1,0 +1,8 @@
+no lasso
+accuracy 0.875
+
+lasso 
+accuracy 0.75
+total features: 54675
+selected features: 82
+features with coefficients shrank to zero: 54593
